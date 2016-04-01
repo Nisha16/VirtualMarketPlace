@@ -1,9 +1,3 @@
-Submitted by
-
-Bharath Nagananda 			009991917			bharath.nag.gowda@gmail.com
-Maithili Gole				009877452			maithili2110@gmail.com
-Surabhi Ranganath Mundaragi		009990552			surabhirm@gmail.com
-Vidya G S				009994712			vidyags1@gmail.com
 
 Steps to Run
 
